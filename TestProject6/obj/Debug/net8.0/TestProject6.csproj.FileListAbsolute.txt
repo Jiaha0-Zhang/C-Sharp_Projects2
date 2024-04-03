@@ -1,0 +1,14 @@
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\TestProject6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\TestProject6.AssemblyInfoInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\TestProject6.AssemblyInfo.cs
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\TestProject6.csproj.CoreCompileInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\bin\Debug\net8.0\TestProject6.exe
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\bin\Debug\net8.0\TestProject6.deps.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\bin\Debug\net8.0\TestProject6.runtimeconfig.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\bin\Debug\net8.0\TestProject6.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\bin\Debug\net8.0\TestProject6.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\TestProject6.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\refint\TestProject6.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\TestProject6.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\TestProject6.genruntimeconfig.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject6\obj\Debug\net8.0\ref\TestProject6.dll

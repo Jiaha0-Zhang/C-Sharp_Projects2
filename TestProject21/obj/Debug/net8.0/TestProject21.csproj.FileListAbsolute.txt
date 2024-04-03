@@ -1,0 +1,14 @@
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\bin\Debug\net8.0\TestProject21.exe
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\bin\Debug\net8.0\TestProject21.deps.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\bin\Debug\net8.0\TestProject21.runtimeconfig.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\bin\Debug\net8.0\TestProject21.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\bin\Debug\net8.0\TestProject21.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\TestProject21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\TestProject21.AssemblyInfoInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\TestProject21.AssemblyInfo.cs
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\TestProject21.csproj.CoreCompileInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\TestProject21.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\refint\TestProject21.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\TestProject21.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\TestProject21.genruntimeconfig.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject21\obj\Debug\net8.0\ref\TestProject21.dll

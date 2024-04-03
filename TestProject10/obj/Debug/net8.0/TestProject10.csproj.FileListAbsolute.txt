@@ -1,0 +1,14 @@
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.AssemblyInfoInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.AssemblyInfo.cs
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.csproj.CoreCompileInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.exe
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.deps.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.runtimeconfig.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\bin\Debug\net8.0\TestProject10.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\refint\TestProject10.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\TestProject10.genruntimeconfig.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject10\obj\Debug\net8.0\ref\TestProject10.dll

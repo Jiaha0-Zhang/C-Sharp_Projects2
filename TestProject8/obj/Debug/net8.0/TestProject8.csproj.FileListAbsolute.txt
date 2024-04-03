@@ -1,0 +1,14 @@
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\TestProject8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\TestProject8.AssemblyInfoInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\TestProject8.AssemblyInfo.cs
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\TestProject8.csproj.CoreCompileInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\bin\Debug\net8.0\TestProject8.exe
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\bin\Debug\net8.0\TestProject8.deps.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\bin\Debug\net8.0\TestProject8.runtimeconfig.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\bin\Debug\net8.0\TestProject8.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\bin\Debug\net8.0\TestProject8.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\TestProject8.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\refint\TestProject8.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\TestProject8.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\TestProject8.genruntimeconfig.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject8\obj\Debug\net8.0\ref\TestProject8.dll

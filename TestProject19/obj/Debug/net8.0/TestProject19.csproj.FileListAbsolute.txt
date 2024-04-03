@@ -1,0 +1,14 @@
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\bin\Debug\net8.0\TestProject19.exe
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\bin\Debug\net8.0\TestProject19.deps.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\bin\Debug\net8.0\TestProject19.runtimeconfig.json
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\bin\Debug\net8.0\TestProject19.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\bin\Debug\net8.0\TestProject19.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\TestProject19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\TestProject19.AssemblyInfoInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\TestProject19.AssemblyInfo.cs
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\TestProject19.csproj.CoreCompileInputs.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\TestProject19.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\refint\TestProject19.dll
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\TestProject19.pdb
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\TestProject19.genruntimeconfig.cache
+C:\Users\xihd2\Desktop\CsharpProjects\TestProject19\obj\Debug\net8.0\ref\TestProject19.dll
